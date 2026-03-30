@@ -188,7 +188,17 @@ attendance
 
 ## Screenshots
 
-> Add screenshots of your app here after taking them.
+### Login
+![Login](screenshots/login.png)
+
+### Admin Dashboard
+![Admin](screenshots/admin.png)
+
+### Teacher Dashboard
+![Teacher](screenshots/teacher.png)
+
+### Student Dashboard
+![Student](screenshots/student.png)
 
 ---
 
